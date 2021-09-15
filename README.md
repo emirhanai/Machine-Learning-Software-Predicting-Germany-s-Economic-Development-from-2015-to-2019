@@ -21,6 +21,8 @@ Data Source: [DataSource] , [DataSource1]
 
 `Pandas`
 
+`Matplotlib`
+
 ### **Developer Information:**
 
 Name-Surname: **Emirhan BULUT**
